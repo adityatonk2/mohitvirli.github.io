@@ -2,58 +2,67 @@ import { Project } from "../types";
 
 // TODO: Move this to API
 export const PROJECTS: Project[] = [
-  {
-    title: 'Angular Gulp Seed',
-    date: 'Aug 2016',
-    subtext: 'A basic starter project to initialize project using AngularJS and Gulp. It follows MVC architecture and uses standard app structure.',
-    url: 'https://github.com/mohitvirli/angular-gulp-seed',
-  },
-  {
-    title: 'State.js',
-    date: 'Jul 2020',
-    subtext: 'A lightweight library for turning JS objects into observables, providing a convenient API for state management and manipulation.',
-    url: 'https://github.com/mohitvirli/state.js',
-  },
-  {
-    title: 'change-host',
-    date: 'Jul 2020',
-    subtext: 'A CLI tool to manage /etc/hosts entries for local development. It enables quick and easy mapping of IPs to URLs with a single command.',
-    url: 'https://github.com/mohitvirli/change-host',
-  },
-  {
-    title: 'Vaccine Slots Discord Bot',
-    date: 'May 2021',
-    subtext: 'A Discord Bot that sends alerts for COVID-19 vaccine availability based on PIN/district using public APIs.',
-    url: 'https://github.com/mohitvirli/vaccine-slots-discord-bot',
-  },
-  {
-    title: 'Chat bot',
-    date: 'Aug 2024',
-    subtext: 'A streaming chatbot that allows users to switch between different LLMs with custom API keys.',
-    url: 'https://github.com/mohitvirli/chat-bot-vercel',
-  },
-  {
-    title: 'Word Game',
-    date: 'Oct 2024',
-    subtext: 'This word game app offers single and multiplayer modes where players take turns forming words, each starting with the last letter of the previous word.',
-    url: 'https://github.com/mohitvirli/word-game',
-  },
-  {
-    title: 'DJ Gig',
-    date: 'Mar 2025',
-    subtext: 'Hosted a Sundowner event which was recorded and is out on YouTube. Furthermore, I performed a UKG/140 DJ set at a local club.',
-    url: 'https://www.youtube.com/watch?v=oauQSEySkoQ',
-  },
-  {
-    title: 'Portfolio',
-    date: 'Apr 2025',
-    subtext: '[Enter a meta joke].',
-    url: 'https://github.com/mohitvirli/mohitvirli.github.io',
-  },
-  {
-    title: 'Focus Clock',
-    date: 'Jun 2025',
-    subtext: 'Developed a minimalist clock featuring a time-remaining indicator.',
-    url: 'https://github.com/mohitvirli/focus-clock',
-  },
+	{
+		title: "AI-SMM",
+		date: "Sep 2025",
+		subtext:
+			"AISM is an in-house SaaS platform designed to centralize data, automate workflows, and streamline internal operations within a single unified system.",
+		url: "https://github.com/FDC-innovation/SMM-monorepo",
+	},
+	{
+		title: "Trekkers Heaven Website",
+		date: "Feb 2026",
+		subtext:
+			"Trekking Website Development – Designed and developed a responsive website to showcase trekking routes, provide trip details, and enable users to explore and plan trekking experiences online. ",
+		url: "https://trekkersheaven.com/",
+	},
+	{
+		title: "change-host",
+		date: "JAN 2026",
+		subtext:
+			"Tour & Travels Website Development – Designed and developed a responsive website to showcase travel packages, destinations, and booking information, helping users easily explore and plan their trips online. ✈️🌍",
+		url: "https://sarthaktourandtravels.com/",
+	},
+	{
+		title: "WoW Shippings",
+		date: "Nov 2025",
+		subtext:
+			"Logistics Services Website – Developed a responsive website to showcase logistics services and enable easy customer inquiries. 🚚",
+		url: "https://www.wowshippings.com/",
+	},
+	{
+		title: "Chat Bot",
+		date: "Aug 2024",
+		subtext:
+			"A streaming chatbot that allows users to switch between different LLMs (gemini) with custom API keys.",
+		url: "https://github.com/adityatonk2/Gemini-Clone",
+	},
+	{
+		title: "Rank Master",
+		date: "Oct 2024",
+		subtext:
+			"Rank Master for Influencers – A platform designed to help in comparing performance based on Categories, reach, and content impact. 📊🚀",
+		url: "https://github.com/adityatonk2/review-comparison-video-maker",
+	},
+	{
+		title: "Anonymous Chat Application",
+		date: "Oct 2025",
+		subtext:
+			"Anon Chat App – A platform that allows users to communicate and share messages anonymously in a secure and simple chat environment. 💬🔒",
+		url: "https://github.com/FDC-innovation/anon-chat-frontend",
+	},
+	{
+		title: "Java Compiler",
+		date: "Sep 2023",
+		subtext:
+			"Java Compiler – A tool that converts Java source code into bytecode, allowing programs to run on the Java Virtual Machine (JVM). 💻⚙️",
+		url: "https://github.com/adityatonk2/java-compiler-project",
+	},
+	{
+		title: "Ai Video Editing Platform",
+		date: "Jun 2025",
+		subtext:
+			"Developed a minimalist clock featuring a time-remaining indicator.",
+		url: "https://github.com/adityatonk2/FDC-AI-Video-Editing-Platform",
+	},
 ];
