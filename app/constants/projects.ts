@@ -10,14 +10,14 @@ export const PROJECTS: Project[] = [
 		url: "https://github.com/FDC-innovation/SMM-monorepo",
 	},
 	{
-		title: "Trekkers Heaven Website",
+		title: "Trekkers Heaven",
 		date: "Feb 2026",
 		subtext:
 			"Trekking Website Development – Designed and developed a responsive website to showcase trekking routes, provide trip details, and enable users to explore and plan trekking experiences online. ",
 		url: "https://trekkersheaven.com/",
 	},
 	{
-		title: "change-host",
+		title: "Tour & Travels",
 		date: "JAN 2026",
 		subtext:
 			"Tour & Travels Website Development – Designed and developed a responsive website to showcase travel packages, destinations, and booking information, helping users easily explore and plan their trips online. ✈️🌍",
@@ -45,7 +45,7 @@ export const PROJECTS: Project[] = [
 		url: "https://github.com/adityatonk2/review-comparison-video-maker",
 	},
 	{
-		title: "Anonymous Chat Application",
+		title: "Anonymous Chat",
 		date: "Oct 2025",
 		subtext:
 			"Anon Chat App – A platform that allows users to communicate and share messages anonymously in a secure and simple chat environment. 💬🔒",
@@ -59,10 +59,10 @@ export const PROJECTS: Project[] = [
 		url: "https://github.com/adityatonk2/java-compiler-project",
 	},
 	{
-		title: "Ai Video Editing Platform",
-		date: "Jun 2025",
+		title: "Ai Video Editing",
+		date: "Mar 2026",
 		subtext:
-			"Developed a minimalist clock featuring a time-remaining indicator.",
+			"AI Video Editing Platform – An in-house AI-powered video editing platform developed by FDC to automate video creation, editing, and content optimization for faster and smarter media production. 🎬🤖",
 		url: "https://github.com/adityatonk2/FDC-AI-Video-Editing-Platform",
 	},
 ];
